@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning python django
 - 💞️ I’m looking to collaborate on projects
 - 📫 reach me @jiyarath55@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Jinal55/Jinal55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
