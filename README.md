@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jinal55
+- 👋 Hi, I’m @Jinal rathod
 - 👀 I’m interested in python web development
 - 🌱 I’m currently learning python django
 - 💞️ I’m looking to collaborate on projects
